@@ -8,9 +8,4 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 
 
 
-### Clone the Repository
-```sh
-npm install
-# or
-pip install -r requirements.txt
 
