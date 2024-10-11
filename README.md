@@ -1,4 +1,7 @@
-# Prodigy_Intern
+# Prodigy-Intern
+## About the Company
+
+-An EdTech Startup built by a team of passionate educators and entrepreneurs who are committed to transforming the way people learn and grow.
 ## Task 1 
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 - Sample dataset : https://data.worldbank.org/indicator/SP.POP.TOTL
