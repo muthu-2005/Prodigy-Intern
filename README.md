@@ -19,7 +19,7 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 - Sample dataset: https://www.kaggle.com/c/titanic/data
 
 #### Internship Completion Certificate
-
+![02_Prodigy_InfoTech_Internship_Certificate ](https://github.com/user-attachments/assets/b4850779-ead1-4c41-9954-ba9db689e1fa)
 
 
 
